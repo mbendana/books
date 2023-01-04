@@ -1,1 +1,5 @@
+# Ignore files ending in .o
 **/*.o
+
+# Ignore files ending in .txt, .csv, .tsv and .dat
+**/*[.txt, .csv, .tsv, .dat]
